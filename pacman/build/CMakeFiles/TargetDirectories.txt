@@ -1,0 +1,3 @@
+/home/eljily/Desktop/projects./projects/pacman/build/CMakeFiles/pacman.dir
+/home/eljily/Desktop/projects./projects/pacman/build/CMakeFiles/edit_cache.dir
+/home/eljily/Desktop/projects./projects/pacman/build/CMakeFiles/rebuild_cache.dir

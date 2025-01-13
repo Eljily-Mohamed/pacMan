@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wl,--dependency-file=CMakeFiles/pacman.dir/link.d CMakeFiles/pacman.dir/src/main.c.o CMakeFiles/pacman.dir/src/framework.c.o CMakeFiles/pacman.dir/src/firstLevel.c.o CMakeFiles/pacman.dir/src/fantomes.c.o -o pacman  /usr/lib/x86_64-linux-gnu/libSDL2.so
