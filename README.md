@@ -4,7 +4,7 @@
 A classic **PacMan** game developed in C, using SDL2 for graphics and game functionality. In this game, you control PacMan, who navigates a maze, eats pellets, and avoids ghosts to score points.
 
 ## Demo
-![PacMan Demo](pacMan/resources/images/demo.png) 
+![PacMan Demo](pacman/resources/images/demo.png) 
 
 ## Features
 - **Movement**: Control PacMan with keyboard inputs (Arrow keys or WASD).
