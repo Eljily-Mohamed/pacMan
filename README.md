@@ -23,7 +23,7 @@ A classic **PacMan** game developed in C, using SDL2 for graphics and game funct
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-username/pacman.git
+   git clone https://github.com/Eljily-Mohamed/pacman.git
    ```
 
 2. **Navigate to the project directory**:
